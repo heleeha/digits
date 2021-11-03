@@ -7,7 +7,7 @@ import { withRouter } from 'react-router-dom';
 class Contact extends React.Component {
   render() {
     return (
-      <Card>
+      <Card centered>
         <Card.Content>
           <Image
             floated='right'
