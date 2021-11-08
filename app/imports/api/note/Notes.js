@@ -1,7 +1,7 @@
 import { Mongo } from 'meteor/mongo';
 import SimpleSchema from 'simpl-schema';
 import { Tracker } from 'meteor/tracker';
-
+// Add minutes to commit
 /**
  * The StuffsCollection. It encapsulates state and variable values for stuff.
  */
