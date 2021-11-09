@@ -8,7 +8,7 @@ Digits is an app that allows users to create and manage contacts, as well as add
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, go to [https://github.com/heleeha/digits](https://github.com/heleeha/digits), and download a copy of this private repo.
+Second, go to [https://github.com/heleeha/digits](https://github.com/heleeha/digits), and download a copy of this repo.
 
 Third, cd into app and install meteor
 
@@ -92,7 +92,7 @@ After logging in,you can add new contacts on this page:
 
 <img src="doc/add-user.png">
 
-#### List Stuff page
+#### List Contact page
 
 After logging in, you can also list your own contacts on this page:
 
@@ -100,7 +100,7 @@ After logging in, you can also list your own contacts on this page:
 
 You click on "Edit" on each contact to go to Edit Contact page.
 
-#### Edit Stuff page
+#### Edit Contact page
 
 After clicking "Edit" on a contact, you to change and save it on this page:
 
@@ -108,11 +108,11 @@ After clicking "Edit" on a contact, you to change and save it on this page:
 
 #### Landing (after Login), Admin user
 
-You can define an "admin" user in the settings.json file. This user, after logging in, gets a special entry in the navbar:
+You can define an admin user in the settings.json file. This user gets a special entry in their navbar:
 
 <img src="doc/landing-admin.png">
 
-#### Admin page (list all users stuff)
+#### Admin page
 
 Admin users can see all contacts and the owner of each contact when they go to the admin page shown below:
 
